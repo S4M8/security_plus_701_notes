@@ -15,10 +15,10 @@ Questions answered incorrectly during assessment exam for futher review.
 AUP
 
 ### BPA (Business Partnership Agreement): 
-A legal agreement that outlines the terms, conditions, and expectations between business partners5. It establishes the framework for collaboration and defines responsibilities in a business relationship.
+A legal agreement that outlines the terms, conditions, and expectations between business partners. It establishes the framework for collaboration and defines responsibilities in a business relationship.
 
 ### SLA (Service Level Agreement): 
-A contract between a service provider and a customer that specifies the expected levels of service performance, availability, and quality25. In cybersecurity, SLAs often include:
+A contract between a service provider and a customer that specifies the expected levels of service performance, availability, and quality. In cybersecurity, SLAs often include:
 - Scope of security services
 - Service level objectives (SLOs) and key performance indicators (KPIs)
 - Response times for security incidents
@@ -26,14 +26,14 @@ A contract between a service provider and a customer that specifies the expected
 - Service availability and disaster recovery procedures
 
 ### AUP (Acceptable Use Policy): 
-A document that outlines the rules and guidelines for appropriate use of an organization's IT resources38. Key components of an AUP include:
+A document that outlines the rules and guidelines for appropriate use of an organization's IT resources. Key components of an AUP include:
 - User responsibilities
 - Prohibited activities
 - Acceptable uses of company data, applications, devices, and network resources
 - Security responsibilities for employees
 
 ### MOU (Memorandum of Understanding): 
-A formal agreement between parties to establish or expand cooperation on specific areas, such as cybersecurity49. For example, the United States and Singapore signed an MOU to:
+A formal agreement between parties to establish or expand cooperation on specific areas, such as cybersecurity. For example, the United States and Singapore signed an MOU to:
 - Strengthen information sharing
 - Foster cybersecurity exchanges
 - Cooperate through joint exercises
