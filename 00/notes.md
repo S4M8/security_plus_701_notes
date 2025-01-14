@@ -1,15 +1,18 @@
-## Assessment Questions
+# Assessment Questions
 
-### Summary:
+## Summary:
 Questions answered incorrectly during assessment exam for futher review.
 
-### Review:
+## Review:
 
-#### Question 13
+### Question 13
 
-I am unfamiliar with the policy acronynms.
+### Question:
+"...an internal user used his computer to participate in a denial-of-service attack against a third party. What type of policy was most likely violated?" 
 
-"...an internal user used his computer to participate in a denial-of-service attack against a third party. What type of policy was most likely violated?"
+### Answer:
+
+AUP
 
 ### BPA (Business Partnership Agreement): 
 A legal agreement that outlines the terms, conditions, and expectations between business partners5. It establishes the framework for collaboration and defines responsibilities in a business relationship.
